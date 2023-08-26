@@ -8,6 +8,10 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "engines" : { 
+    "npm" : ">=9.5.1",
+    "node" : ">=18.16.1"
+  },
   "private": true,
   "dependencies": {
     "@ag-grid-community/all-modules": "^27.3.0",
