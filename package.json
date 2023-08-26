@@ -14,6 +14,10 @@
   },
   "private": true,
   "dependencies": {
+
+    "@angular-devkit/build-angular": "^16.2.0",
+    "@angular/cli": "~16.2.0",
+
     "@ag-grid-community/all-modules": "^27.3.0",
     "@ag-grid-community/styles": "^30.1.0",
     "@angular/animations": "^16.2.0",
